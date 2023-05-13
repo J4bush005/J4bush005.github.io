@@ -5,3 +5,17 @@
 .hover:hover {
     transform: scale(1.15);
 }
+
+.goldbar {
+    border: solid grey 1px;
+    height: 0px;
+    width: 320px;
+    margin-bottom: 10px;
+}
+
+.goldbar2 {
+    border: solid grey 1px;
+    height: 0px;
+    width: 365px;
+    margin-bottom: 10px;
+}
